@@ -1,6 +1,6 @@
 # Erudus Allergen & Dietary Icon Font
 
-The `dist` folder contains a demo and all files need to use the icons in a project.
+The `dist` folder contains all files need to use the icons in a project. See index.html for example useage.
 
 ## Using with SASS
 
