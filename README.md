@@ -4,7 +4,7 @@ The Erudus Icon Set includes icons to represent common food allergens as used by
 
 View the [demo](https://erudus.github.io/erudus-pages/).  
 
-We have made the icons available for others to use. Tweet us if you put them to use : [@erudus]("https://twitter.com/Erudus","Follow us on Twitter"). We'd love to see where they are being used.
+We have made the icons available for others to use. Tweet us if you put them to use : [@erudus](https://twitter.com/Erudus). We'd love to see where they are being used.
 
 For more information see : http://www.erudus.com/resource-centre/
 
