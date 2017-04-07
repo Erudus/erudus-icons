@@ -1,4 +1,4 @@
-# Erudus Allergen & Dietary Icon Font
+# Erudus Allergen & Dietary Icon Set
 
 The Erudus Icon Set includes icons to represent common food allergens as used by [Erudus](http://www.erudus.com/ "Erudus"), a product data solution for the Food Industry.
 
