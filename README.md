@@ -1,6 +1,21 @@
 # Erudus Allergen & Dietary Icon Font
 
-The `dist` folder contains all files need to use the icons in a project. See index.html for example useage.
+The Erudus Icon Set includes icons to represent common food allergens as used by [Erudus](http://www.erudus.com/ "Erudus"), a product data solution for the Food Industry.  
+
+We have made the icons available for others to use. Tweet us if you put them to use : [@erudus]("https://twitter.com/Erudus","Follow us on Twitter"). We'd love to see where they are being used.
+
+For more information see : http://www.erudus.com/resource-centre/
+
+## License
+
+The icons and fonts are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+
+The CSS, SASS and HTML is licensed under the MIT License:
+https://opensource.org/licenses/mit-license.html
+
+## Using the Icon Font
+
+The `dist` folder contains all files need to use the icons in a project. See index.html for example usage.
 
 ## Using with SASS
 
@@ -14,7 +29,7 @@ Drop a simple icon into your project:
 
 ## Example 2
 
-Requires the sass version. Produce a list of icons with colour coded levels:
+Produce a list of icons with colour coded levels:
 
 ```
 <ul class="eicon-list">
@@ -23,3 +38,7 @@ Requires the sass version. Produce a list of icons with colour coded levels:
         <li><span class=" eicon eicon-circle-milk"></span>Milk</li>
 </ul>
 ```
+
+## Source Vectors
+
+The source artwork used to create the icons can be found int the src folder along with svg files for each icon.
