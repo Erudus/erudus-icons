@@ -10,9 +10,7 @@ For more information see : http://www.erudus.com/resource-centre/
 
 ## License
 
-The icons and fonts are licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
-
-The CSS, SASS and HTML is licensed under the MIT License:
+Erudus icons are licensed under the MIT License:
 https://opensource.org/licenses/mit-license.html
 
 ## Using the Icon Font
