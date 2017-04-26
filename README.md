@@ -42,3 +42,7 @@ Produce a list of icons with colour coded levels:
 ## Source Vectors
 
 The source artwork used to create the icons can be found int the src folder along with svg files for each icon.
+
+## Example artwork
+
+The examples folder contains an AI file which uses the font (you need to install it on our system). We used this file to generate some useable png and svg files for each icon. These are also contained in the examples folder.
