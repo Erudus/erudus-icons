@@ -6,7 +6,7 @@
   "dependencies": {},
   "devDependencies": {
     "del": "^2.2.2",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-autoprefixer": "^3.1.1",
     "gulp-concat": "^2.6.1",
     "gulp-jshint": "^2.0.4",
@@ -17,7 +17,7 @@
     "gulp-uglify": "^2.0.0",
     "gulp-util": "^3.0.7",
     "gulp-wrapper": "^1.0.0",
-    "jshint": "^2.9.4"
+    "jshint": "^2.13.6"
   },
   "resolutions": {
     "graceful-fs": "4.2.3"
